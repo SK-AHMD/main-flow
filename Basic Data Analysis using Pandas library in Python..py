@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Read the CSV file into a DataFrame
-df = pd.read_csv('C:\\Users\\mdazi\\Downloads\\Data.csv')
+df = pd.read_csv('C:\\Users\\sheikh\\Downloads\\Data.csv')
 
 # Display the first few rows of the DataFrame
 print("Initial DataFrame:")
